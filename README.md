@@ -1,4 +1,4 @@
-# Kai Burmese Cuisine Restaurant
+# Covid-19 Tracker
 ## Table of contents
 * [Summary](#summary)
 * [Technology](#technologies)
@@ -7,20 +7,14 @@
 
 
 
-<div align="center">Welcome to Nucampsite. </div>
+<div align="center">Welcome to Covid-19 Tracker. </div>
 <br/>
 <div align="center">
 <kbd>
-<img src="./covid.png">
+<img src="./covid-19.png">
 </kbd>
 </div>
 
-<br/>
-<div align="center">
-<kbd>
-<img src="./two.png">
-</kbd>
-</div>
 
 
 ## Summary
